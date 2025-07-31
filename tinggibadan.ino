@@ -4,12 +4,12 @@
   #include <time.h>
 
   // Konfigurasi WiFi
-  #define WIFI_SSID "Es Teh Panas"
-  #define WIFI_PASSWORD "123123123"
+  #define WIFI_SSID "ISI DENGAN WIFI SSID ANDA"
+  #define WIFI_PASSWORD "ISI DENGAN PASSWORD WIFI ANDA"
 
   // Konfigurasi Firebase
-  #define FIREBASE_HOST "https://testing-hc-sr04-default-rtdb.asia-southeast1.firebasedatabase.app/"
-  #define FIREBASE_AUTH "ImfT9MF6YYXEH3FXl7CQe1kpLAT4YfSOLIDJF7iM"
+  #define FIREBASE_HOST " ISI DENGAN FIREBASE HOST ANDA"
+  #define FIREBASE_AUTH "ISI DENGAN FIREBASE AUTH ANDA"
 
   // Inisialisasi objek Firebase
   FirebaseData fbdo;
